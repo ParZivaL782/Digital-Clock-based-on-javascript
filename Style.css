@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(186, 200, 222);
+    font: 200;
+    color: rgb(16, 41, 62);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+h1{
+    position: relative;
+    left: 80px;
+}
+.hour, .minute, .second{
+    height: 35px;
+    width: 30px;
+    margin: auto;
+    position: relative;
+    left: 100px;
+    background-color: rgb(2, 35, 24);
+    border: 1px;
+    color: aliceblue;
+}
